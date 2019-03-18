@@ -3,7 +3,8 @@ root: true
 name: beego 安装升级
 sort: 1
 ---
-
+test112
+4556456
 # beego 的安装
 
 beego 的安装是典型的 Go 安装包的形式：
